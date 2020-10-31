@@ -14,3 +14,5 @@ include:
   - ISSUE_TEMPLATE.org
   - PULL_REQUEST_TEMPLATE.org
 
+
+theme: jekyll-theme-tactile
