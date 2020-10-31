@@ -8,10 +8,9 @@ include:
   - README.md
   - LICENSE.md
 
+title: Minimal theme
+logo: cellsonlove.png
+description: Minimal is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-minimal
-
-title: title [The title of your site]
-description: [A short description of your site's purpose]
-logo: ./cellsonlove.png
-show_downloads: ["true" or "false" to indicate whether to provide a download URL]
-google_analytics: [Your Google Analytics tracking ID]
