@@ -2,7 +2,7 @@
 
 Hi There! 
 
-Thanks for visiting. 
+Thanks for visiting. I am Pedro Segura, Now a days I am PhD student at [Sherbrooke University](https://www.usherbrooke.ca/), but actually now I am living in France carrying out a long research stay at the [Institute Jean Lamour](https://ijl.univ-lorraine.fr/) of the [Lorraine University](http://www.univ-lorraine.fr/) at the city of Nancy.
 
 ## Sections
 
