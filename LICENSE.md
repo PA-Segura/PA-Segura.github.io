@@ -1,10 +1,4 @@
-#+TITLE: Jekyll and Org together
-#+LAYOUT: post
-#+TAGS: jekyll org-mode "tag with spaces"
-
-This is a blog post about Jekyll and Org mode.
-
-** org-table demo 
+# +TITLE: Jekyll and Org together
 
    | a | b | c | d | e |
    |---+---+---+---+---|

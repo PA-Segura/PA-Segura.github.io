@@ -5,15 +5,9 @@ relative_links:
   enabled: true
   collections: true
 include:
-  - INDEX.md
-  - CONTRIBUTING.org
   - README.md
-  - LICENSE.org
-  - COPYING.org
-  - CODE_OF_CONDUCT.org
-  - CONTRIBUTING.org
-  - ISSUE_TEMPLATE.org
-  - PULL_REQUEST_TEMPLATE.org
+  - LICENSE.md
+
 
 
 theme: jekyll-theme-tactile
