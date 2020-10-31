@@ -1,13 +1,3 @@
-plugins:
-  - jekyll-relative-links
-  - jekyll-org
-relative_links:
-  enabled: true
-  collections: true
-include:
-  - README.md
-  - LICENSE.md
-
 title: Minimal theme
 logo: cellsonlove.png
 description: Minimal is a theme for GitHub Pages.
