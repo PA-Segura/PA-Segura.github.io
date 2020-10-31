@@ -1,4 +1,4 @@
-# Pedro A. Segura[*](( https://pa-segura.github.io/disambiguation)) personal webpage
+# Pedro A. Segura[*](https://pa-segura.github.io/disambiguation) personal webpage
 
 Hi There! 
 
