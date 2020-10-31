@@ -6,11 +6,11 @@ Thanks for visiting. I am Pedro Segura, Now a days I am PhD student at [Sherbroo
 
 ## Sections
 
-* [Here is the link to the Github Pages version](https://nicolas-van.github.io/easy-markdown-to-github-pages/)
-
-* [Interesting links](https://pa-segura.github.io/LINKS) 
+* [Interesting links](https://pa-segura.github.io/links) 
 
 * [About me / CV](https://pa-segura.github.io/AboutMe-CV) 
+
+* [Here is the link to the Github Pages version](https://nicolas-van.github.io/easy-markdown-to-github-pages/)
 
 
 ## New interesting additions:
