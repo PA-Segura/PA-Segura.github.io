@@ -1,6 +1,7 @@
 title: Minimal theme
 logo: cellsonlove.png
 description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+show_downloads: false
+github.is_user_page: false
 google_analytics:
 theme: jekyll-theme-minimal
