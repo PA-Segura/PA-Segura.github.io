@@ -1,3 +1,16 @@
-theme: jekyll-theme-minimal
 plugins:
+  - jekyll-relative-links
   - jekyll-org
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - CONTRIBUTING.org
+  - README.org
+  - LICENSE.org
+  - COPYING.org
+  - CODE_OF_CONDUCT.org
+  - CONTRIBUTING.org
+  - ISSUE_TEMPLATE.org
+  - PULL_REQUEST_TEMPLATE.org
+
