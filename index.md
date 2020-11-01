@@ -15,9 +15,9 @@ Thanks for visiting. I am Pedro Segura, Now a days I am PhD student at [Sherbroo
 
 ## New interesting additions:
 
-* [How to make measure a 10 000 points with a miniVNA pro](https://pa-segura.github.io/miniVNA_10000_and_time) 
+* [How to make 10 000 points measurements with a miniVNA pro and make time domain analysis](https://pa-segura.github.io/miniVNA_10000_and_time) 
 
-Here I describe how you can use your low cost VNA miniVNA pro to make sweeps of 10 000 points. Then you can use these bunch of points to meake time domain analysis or a gating filtering using the scikit-rf python library. 
+Here I describe how you can use your low-cost VNA miniVNA pro to make sweeps of 10 000 points. Then you can use these bunch of points to make time-domain analysis or a gating filtering with the [scikit-rf](http://scikit-rf.org/){:target="_blank"} python library. 
 
 * [Another one addition](https://pa-segura.github.io/LICENSE) 
 
