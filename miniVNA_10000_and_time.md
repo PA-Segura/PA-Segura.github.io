@@ -15,3 +15,5 @@ _Previously I have carried out a calibration (in the GUI) that corresponds with 
 
 After running the comand your miniVNA will take some time doing the measurements and will deliver some s2p files, then you can analyze these files with scikit-rf to carry out gating or other operations over your s2p file.
 
+--------------
+2020-11-01
