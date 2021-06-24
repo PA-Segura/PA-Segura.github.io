@@ -21,15 +21,5 @@ Here I describe how you can use your low-cost VNA miniVNA pro to make sweeps of 
 
 * [Another one addition](https://pa-segura.github.io/LICENSE) 
 
-This is a test text resume of a post or something like that. This is a
-test text This is a test text This is a test text This is a test text
-This is a test text This is a test text This is a test text This is a
-test text This is a test text This is a test text This is a test text
-This is a test text This is a test text This is a test text This is a
-test text This is a test text This is a test text This is a test text
-This is a test text This is a test text This is a test text This is a
-test text This is a test text This is a test text This is a test text
-This is a test text This is a test text This is a test text This is a
-test text This is a test text This is a test text This is a test text
 This is a test text
 
