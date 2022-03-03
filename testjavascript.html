@@ -1,169 +1,110 @@
-<html>
+
+<!-- Code taken from: https://www.youtube.com/watch?v=qio50ujL2nA --> 
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<script type="text/javascript" src="jquery.js"></script>
-<link href="buttonstyle.css" rel="stylesheet" type="text/css" media="screen" />
-<div id="#1" class="s1" style=display:none> 
-Q1.
-
-<INPUT TYPE="radio" NAME="quiz" id="true" VALUE="Wrong answer" class="qqq" onClick="correct()">4<P>
-<INPUT TYPE="radio" NAME="quiz" id="wrong1" VALUE="Wrong answer" onClick="wrong()" >7<P>
-<INPUT TYPE="radio" NAME="quiz" id="wrong2" VALUE="Wrong answer" onClick="wrong()" >3<P>
-<INPUT TYPE="radio" NAME="quiz" id="wrong3" VALUE="Wrong answer" onClick="wrong()" >5<P>
-
-</div>
-<div id="#2" class="s1" style=display:none>
-Q2.
-
-<INPUT TYPE="radio" NAME="quiz" id="true" VALUE="Wrong answer" class="qqq" onClick="correct()">4<P>
-<INPUT TYPE="radio" NAME="quiz" id="wrong1" VALUE="Wrong answer" onClick="wrong()" >7<P>
-<INPUT TYPE="radio" NAME="quiz" id="wrong2" VALUE="Wrong answer" onClick="wrong()" >3<P>
-<INPUT TYPE="radio" NAME="quiz" id="wrong3" VALUE="Wrong answer" onClick="wrong()" >5<P>
-
-</div>
-<div id="#3" class="s1" style=display:none>
-Q3.
-
-<INPUT TYPE="radio" NAME="quiz" id="true" VALUE="Wrong answer" class="qqq" onClick="correct()">4<P>
-<INPUT TYPE="radio" NAME="quiz" id="wrong1" VALUE="Wrong answer" onClick="wrong()" >7<P>
-<INPUT TYPE="radio" NAME="quiz" id="wrong2" VALUE="Wrong answer" onClick="wrong()" >3<P>
-<INPUT TYPE="radio" NAME="quiz" id="wrong3" VALUE="Wrong answer" onClick="wrong()" >5<P>
-</div>
-<div id="#4" class="s1" style=display:none>
-Q4.
-<INPUT TYPE="radio" NAME="quiz" id="true" VALUE="Wrong answer" class="qqq" onClick="correct()">4<P>
-<INPUT TYPE="radio" NAME="quiz" id="wrong1" VALUE="Wrong answer" onClick="wrong()" >7<P>
-<INPUT TYPE="radio" NAME="quiz" id="wrong2" VALUE="Wrong answer" onClick="wrong()" >3<P>
-<INPUT TYPE="radio" NAME="quiz" id="wrong3" VALUE="Wrong answer" onClick="wrong()" >5<P>
-
-</div>
-<div id="#5" class="s1" style=display:none>
-Q5.
-
-<INPUT TYPE="radio" NAME="quiz" id="true" VALUE="Wrong answer" class="qqq" onClick="correct()">4<P>
-<INPUT TYPE="radio" NAME="quiz" id="wrong1" VALUE="Wrong answer" onClick="wrong()" >7<P>
-<INPUT TYPE="radio" NAME="quiz" id="wrong2" VALUE="Wrong answer" onClick="wrong()" >3<P>
-<INPUT TYPE="radio" NAME="quiz" id="wrong3" VALUE="Wrong answer" onClick="wrong()" >5<P>
-
-</div>
-<div id="#6" class="s1" style=display:none>
-Q6.
-
-<INPUT TYPE="radio" NAME="quiz" id="true" VALUE="5" class="qqq" onClick="True()">4<P>
-<INPUT TYPE="radio" NAME="quiz" id="wrong1" VALUE="5" onClick="False()" >7<P>
-<INPUT TYPE="radio" NAME="quiz" id="wrong2" VALUE="5" onClick="False()" >3<P>
-<INPUT TYPE="radio" NAME="quiz" id="wrong3" VALUE="5" onClick="False()" >5<P>
-
-</div>
-<div id="#7" class="s1" style=display:none>
-Q7.
-
-<INPUT TYPE="radio" NAME="quiz" id="true" VALUE="5" class="qqq" onClick="True()">4<P>
-<INPUT TYPE="radio" NAME="quiz" id="wrong1" VALUE="5" onClick="False()" >7<P>
-<INPUT TYPE="radio" NAME="quiz" id="wrong2" VALUE="5" onClick="False()" >3<P>
-<INPUT TYPE="radio" NAME="quiz" id="wrong3" VALUE="5" onClick="False()" >5<P>
-
-</div>
-<div id="#8" class="s1" style=display:none>
-Q8.
-
-<INPUT TYPE="radio" NAME="quiz" id="true" VALUE="5" class="qqq" onClick="True()">4<P>
-<INPUT TYPE="radio" NAME="quiz" id="wrong1" VALUE="5" onClick="False()" >7<P>
-<INPUT TYPE="radio" NAME="quiz" id="wrong2" VALUE="5" onClick="False()" >3<P>
-<INPUT TYPE="radio" NAME="quiz" id="wrong3" VALUE="5" onClick="False()" >5<P>
-
-</div>
-<div id="#9" class="s1" style=display:none>
-Q9.
-<INPUT TYPE="radio" NAME="quiz" id="true" VALUE="5" class="qqq" onClick="True()">4<P>
-<INPUT TYPE="radio" NAME="quiz" id="wrong1" VALUE="5" onClick="False()" >7<P>
-<INPUT TYPE="radio" NAME="quiz" id="wrong2" VALUE="5" onClick="False()" >3<P>
-<INPUT TYPE="radio" NAME="quiz" id="wrong3" VALUE="5" onClick="False()" >5<P>
-
-</div>
-<div id="#10" class="s1" style=display:none>
-Q10.
-
-<INPUT TYPE="radio" NAME="quiz" id="true" VALUE="5" class="qqq" onClick="True()">4<P>
-<INPUT TYPE="radio" NAME="quiz" id="wrong1" VALUE="5" onClick="False()" >7<P>
-<INPUT TYPE="radio" NAME="quiz" id="wrong2" VALUE="5" onClick="False()" >3<P>
-<INPUT TYPE="radio" NAME="quiz" id="wrong3" VALUE="5" onClick="False()" >5<P>
-
-</div>
-<div id="31" class="s1" style=display:none>
-Q1.
-</div>
-<div id="32" class="s1" style=display:none>
-Q2.
-</div>
-<div id="33" class="s1" style=display:none>
-Q3.
-</div>
-<div id="34" class="s1" style=display:none>
-Q4.
-</div>
-<div id="35" class="s1" style=display:none>
-Q5.
-</div>
-<div id="36" class="s1" style=display:none>
-Q6.
-</div>
-<div id="37" class="s1" style=display:none>
-Q7.
-</div>
-<div id="38" class="s1" style=display:none>
-Q8.
-</div>
-<div id="39" class="s1" style=display:none>
-Q9.
-</div>
-<div id="40" class="s1" style=display:none>
-Q10.
-</div>
-<input type="button" value="Start" onClick="Init()" />
-<input type="button" id="#btnSubmit"  value="submit" onClick="DisplayDiv()" />
-<input type="button" value="Next" class="btn" onmouseover="this.className='btn btnhov'" onmouseout="this.className='btn'"/>
-<script type="text/javascript">
-function Init()
-{
-
-var arrDivs = new Array('1','2','3','4','5','6','7','8','9','10');
-for(var j=0;j<10;j++)
-{
-var chosenDiv=document.getElementById(arrDivs[j]);
-chosenDiv.style.display='block';
-}
-}
-
-function DisplayDiv()
-{
-$("#btnSubmit").click(function() { 
-var arrcolor = new Array();
-
-for(var j=0;j<10;j++)
-{
-if($("'#'+arrDivs[j] input:radio:checked").val()==document.getElementById("true"))
-arrcolor[j]=1;
-else
-arrcolor[j]=0;
-
-}
-var arrnewDiv = new Array('31','32','33','34','35','36','37','38','39','40');
-for(var k=31;k<41;k++)
-{
-
-if(arrcolor[k-31]==0)
-{
-document.getElementById(arrnewDiv[k-31]).style.color="red";
-document.getElementById(arrnewDiv[k-31]).style.display='block';
-}
-else
-{
-document.getElementById(arrnewDiv[k-31]).style.color="green";
-document.getElementById(arrnewDiv[k-31]).style.display='block;
-}
-}
-}
-});
-</script>
+    <meta charset="utf-8" />
+    <title>Radio Button Quiz</title>
 </head>
+<body>
+    <style>
+        #frame001 {
+            height: 400px;
+            width: 400px;
+            background-color: white;
+            border: 3px solid black;
+            margin: 4px;
+            padding: 4px;
+            border-radius: 10px;
+        }
+
+        #center001 {
+            text-align: center;
+            color: black;
+        }
+    </style>
+    <div id="frame001">
+        <div id="center001">
+            <h2>Radio Button Quiz</h2>
+            <hr />
+            <p id="message001"></p>
+            <p id="options001"></p>
+            <p id="comment001"></p>
+            <p id="click001"></p>
+        </div>
+    </div>
+
+    <script>
+        var question001 = ["What is 1 + 1?"];
+        var choices001 = ["<input onclick=correct001() name=button001 type=radio />2<br /><input onclick=incorrect001() name=button001 type=radio />4<br /><input onclick=incorrect001() name=button001 type=radio />7<br />"];
+        
+        var question002 = ["What is 2 + 2?"];
+        var choices002 = ["<input onclick=incorrect002() name=button002 type=radio />3<br /><input onclick=correct002() name=button002 type=radio />4<br /><input onclick=incorrect002() name=button002 type=radio />5<br />"];
+
+        var question003 = ["What is 3 + 3?"];
+        var choices003 = ["<input onclick=incorrect003() name=button003 type=radio />8<br /><input onclick=incorrect003() name=button003 type=radio />5<br /><input onclick=correct003() name=button003 type=radio />6<br />"];
+        var a;
+        var b;
+        var c;
+        var z;
+
+        window.onload = function() {
+            a = 0;
+            message001.innerHTML = question001;
+            options001.innerHTML = choices001;
+            click001.innerHTML = "<button onclick=set002()>Submit</button>";
+        }
+
+        function correct001() {
+            a = 1;
+        }
+
+        function incorrect001() {
+            a = 0;
+        }
+
+        function set002() {
+            b = 0;
+            message001.innerHTML = question002;
+            options001.innerHTML = choices002;
+            click001.innerHTML = "<button onclick=set003()>Next</button>";
+        }
+
+        function correct002() {
+            b = 1;
+        }
+
+        function incorrect002() {
+            b = 0;
+        }
+
+        function set003() {
+            c = 0;
+            message001.innerHTML = question003;
+            options001.innerHTML = choices003;
+            click001.innerHTML = "<button onclick=result001()>Score</button>";
+        }
+
+        function correct003() {
+            c = 1;
+        }
+
+        function incorrect003() {
+            c = 0;
+        }
+
+        function result001() {
+            z = a + b + c;
+            message001.innerHTML = "End of Quiz";
+            options001.innerHTML = "";
+            comment001.innerHTML = "Your score is: " + z;
+            click001.innerHTML = "<button onclick=repeat001()>Repeat</button>";
+        }
+
+        function repeat001() {
+            location.reload();
+        }
+    </script>
+</body>
 </html>
