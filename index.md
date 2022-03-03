@@ -12,9 +12,6 @@ My research interests are acoustic sensors, optical sensors, and wave phenomena 
 
 * [About me / CV](https://pa-segura.github.io/AboutMe-CV) 
 
-* [How to make a Github Pages similar to this one](https://nicolas-van.github.io/easy-markdown-to-github-pages/)
-
-
 ## Last Publications:
 
 * [Segura Chávez, Pedro A., et al. "Love Wave Sensor with High Penetration Depth for Potential Application in Cell Monitoring." Biosensors 12.2 (2022): 61.](https://www.mdpi.com/2079-6374/12/2/61)
