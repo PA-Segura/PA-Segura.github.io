@@ -1,5 +1,5 @@
 # Pedro A. Segura[*](https://pa-segura.github.io/disambiguation) personal webpage
-
+<img src="https://github.com/PA-Segura/PA-Segura.github.io/blob/master/Jap2.jpg" width="20%" height="20%">
 Hi There! 
 
 Thanks for your visit. I am Pedro Segura, I am a Ph.D. student at [Sherbrooke University](https://www.usherbrooke.ca/). I carried out a two-year research stay at the [Jean Lamour Institute](https://ijl.univ-lorraine.fr/) of  [Lorraine University](http://www.univ-lorraine.fr/) in the city of Nancy. I am currently finishing my Ph.D. dissertation.
