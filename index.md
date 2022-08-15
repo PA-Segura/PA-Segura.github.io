@@ -16,6 +16,8 @@ My research interests are acoustic sensors, optical sensors, and wave phenomena 
 
 * [Segura Chávez, Pedro A., et al. "Love Wave Sensor with High Penetration Depth for Potential Application in Cell Monitoring." Biosensors 12.2 (2022): 61.](https://www.mdpi.com/2079-6374/12/2/61)
 
+* [Bonhomme, Jérémy and Oudich, Mourad and Bellaredj, Mohamed Lamine Faycal and Bryche, Jean-Francois and Segura Chavez, Pedro Alberto and Beyssen, Denis and Charette, Paul G. and Sarry, Frédéric. Micropillared Surface to Enhance the Sensitivity of a Love-Wave Sensor. Phys. Rev. Applied. 2022, 17,6.](https://doi.org/10.1103/PhysRevApplied.17.064024)
+
 * [Bonhomme, J., Oudich, M., Segura Chavez, P. A., Bellaredj, M. L. F., Bryche, J.-F., Beyssen, D., Charette, P. G., and Sarry, F. (2020). Numerical characterization of Love waves dispersion in viscoelastic guiding-layer under viscous fluid. Journal of Applied Physics, 128(15), 154502. ](https://doi.org/10.1063/5.0022797)
 
 * Segura-Chavez, P. A., Sarry, F., Bellaredj, F., Bonhomme, J., Olive, L., Beyssen, D., and Charette, P. G. (2020, October). Love wave sensor for detection of viscosity changes on a cell monolayer. MicroTAS 2020 conference, 2020.
