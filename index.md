@@ -38,7 +38,7 @@ My research interests are acoustic sensors, optical sensors, and wave phenomena 
 
 Here I describe how you can use your low-cost VNA miniVNA pro to make sweeps of 10 000 points. Then you can use these bunch of points to make time-domain analysis or a gating filtering with the [scikit-rf](http://scikit-rf.org/){:target="_blank"} python library. 
 
-* [Another one addition](https://pa-segura.github.io/LICENSE) 
+* [Another one addition](https://pa-segura.github.io/monitor_api.html) 
 
 This is a test text
 
