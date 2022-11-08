@@ -1,5 +1,3 @@
 # Disambiguation
 
-Just to clarify that I am Pedro A. Segura the electrical engineering Ph.D. student, and not Professor Pedro A. Segura of Sherbrooke University, or neither other Pedros Seguras that can appear in google. 
-
-My name seems to be pretty common lately...
+Just to clarify that I am Pedro A. Segura the electrical engineering Ph.D. student from Sherbrooke University, and not Professor Pedro A. Segura from Sherbrooke University, or other Pedros Seguras that appear in google :see_no_evil: ...
