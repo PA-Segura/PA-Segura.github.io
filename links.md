@@ -12,6 +12,7 @@ _*Under construction...*_
 
 - [Radar tutorials - Weather Radar principles and interpretation](https://www.radartutorial.eu/index.en.html)
 
+- [Github Pages Emojis :fire: — Sample of emojis to add into Github Pages](https://github.com/markdown-templates/markdown-emojis)
 
 I still haven't  _curated_  a lot of links for this page, but here a I link to a page with quite [good links by Pr. Rumpf from Texas Univ.](http://emlab.utep.edu/opensource.htm).
 
