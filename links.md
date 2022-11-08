@@ -8,6 +8,6 @@ _*Under construction...*_
 
 - [NanoVNA software - _Open source Vector Network Analyzer_](https://nanorfe.com/nanovna-v2.html) 
 
-I still haven't  _curated_  a lot of links for this page, but here a I link to a page with quite [good links of Pr. Rumpf from Texas Univ.](http://emlab.utep.edu/opensource.htm).
+I still haven't  _curated_  a lot of links for this page, but here a I link to a page with quite [good links by Pr. Rumpf from Texas Univ.](http://emlab.utep.edu/opensource.htm).
 
 
