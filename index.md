@@ -1,3 +1,5 @@
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script> <script src="/demo.js"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CFDPGX1V1E"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-CFDPGX1V1E'); </script> 
 # Pedro A. Segura[*](https://pa-segura.github.io/disambiguation) personal webpage
 <img src="https://pa-segura.github.io/Jap2.jpg" width="20%" height="20%">
 Hi There! 
