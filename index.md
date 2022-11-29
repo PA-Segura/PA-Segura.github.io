@@ -12,7 +12,9 @@ My research interests are acoustic sensors, optical sensors, and wave phenomena 
 
 * [Interesting links](https://pa-segura.github.io/links) 
 
-* [About me / CV](https://pa-segura.github.io/AboutMe-CV) 
+* [About me](https://pa-segura.github.io/AboutMe-CV) 
+  * [CV](https://pa-segura.github.io/AboutMe-CV)
+  * [Hackerrank profile](https://www.hackerrank.com/segurachavez) 
 
 ## Last Publications:
 
