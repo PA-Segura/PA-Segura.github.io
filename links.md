@@ -18,6 +18,7 @@ _*Under construction...*_
 
 - [C - Tutorial for reference](http://markburgess.org/CTutorial/CTutorial.html)
 
+- [Python - Scipy lecture notes for reference](https://scipy-lectures.org)
 
 
 I still haven't  _curated_  a lot of links for this page, but here a I link to a page with quite [good links by Pr. Rumpf from Texas Univ.](http://emlab.utep.edu/opensource.htm).
