@@ -4,9 +4,9 @@
 <img src="https://pa-segura.github.io/Jap2.jpg" width="20%" height="20%">
 Hi There! 
 
-Thanks for your visit. I am Pedro Segura, I am a Ph.D. graduate from [Sherbrooke University](https://www.usherbrooke.ca/). I carried out a two-year research stay at the [Jean Lamour Institute](https://ijl.univ-lorraine.fr/) of  [Lorraine University](http://www.univ-lorraine.fr/) in the city of Nancy. I am currently working with UNAM on a project that uses machine learning for forecasting atmospheric ozone levels.
+Thanks for your visit. I am Pedro Segura, I am a Ph.D. graduate from [Sherbrooke University](https://www.usherbrooke.ca/). I carried out a two-year research stay at the [Jean Lamour Institute](https://ijl.univ-lorraine.fr/) of  [Lorraine University](http://www.univ-lorraine.fr/) in the city of Nancy. I am currently working with UNAM on a project that uses machine learning for forecasting atmospheric pollutant concentrations.
 
-My research interests are acoustic sensors, optical sensors, and wave phenomena in general.
+My research interests are atmospherical sciences, machine learning for sensors data, acoustic sensors, radars, and wave phenomena in general.
 
 ## Sections
 
